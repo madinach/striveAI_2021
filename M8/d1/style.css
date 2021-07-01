@@ -1,0 +1,26 @@
+.title{
+	color: red;
+}
+h1:hover {
+	color:blueviolet
+}
+dt:first-child{
+	color:blueviolet
+}
+
+/* #hhh: link{
+	color: blue;
+}
+#hhh: visited{
+	color: brown;
+} */
+
+h1+ h2 {
+	color: red
+}
+textarea~ button{
+	color: peru
+}
+ul > li {
+	color: purple
+}
