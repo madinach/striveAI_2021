@@ -1,7 +1,21 @@
-.title{
-	color: red;
+#title{
+	color: #ba8509;
 }
-h1:hover {
+.subtitle{
+	color: #dba832
+}
+
+body{ 
+	background: burlywood;
+}
+
+
+
+
+
+
+
+/* h1:hover {
 	color:blueviolet
 }
 dt:first-child{
@@ -23,4 +37,4 @@ textarea~ button{
 }
 ul > li {
 	color: purple
-}
+} */
